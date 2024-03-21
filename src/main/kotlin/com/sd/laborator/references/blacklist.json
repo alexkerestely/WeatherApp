@@ -1,0 +1,10 @@
+{
+  "cities" : [
+    {
+      "name" : "Berlin"
+    },
+    {
+      "name" : "Paris"
+    }
+  ]
+}
